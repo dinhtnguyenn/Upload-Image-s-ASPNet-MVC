@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Upload Image</h2>
+@using (Html.BeginForm("UploadImage", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.TextBox("file", "", new { type = "file" })
+    <br />
+    <input type="submit" value="Upload" class="btn btn-default" />
+}
+
+<br />
+<h2>Upload Multiple Image</h2>
+@using (Html.BeginForm("UploadMultipleImage", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+{
+    @Html.TextBox("files", "", new { type = "file", multiple = "multiple" })
+    <br />
+    <input type="submit" value="Upload" class="btn btn-default" />
+
+}

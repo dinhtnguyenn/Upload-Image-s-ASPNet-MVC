@@ -1,0 +1,216 @@
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\BookManager.dll.config
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\BookManager.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\BookManager.pdb
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csc.exe
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csc.exe.config
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csc.rsp
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csi.exe
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csi.exe.config
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\csi.rsp
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.Managed.Core.targets
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.AppContext.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Collections.Immutable.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Console.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Globalization.Calendars.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.IO.Compression.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.IO.FileSystem.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Net.Http.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Net.Sockets.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.ValueTuple.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Xml.XmlDocument.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Xml.XPath.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\vbc.exe
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\vbc.exe.config
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\vbc.rsp
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\VBCSCompiler.exe
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\roslyn\VBCSCompiler.exe.config
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Antlr3.Runtime.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\EntityFramework.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\EntityFramework.SqlServer.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Google.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Web.Infrastructure.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Newtonsoft.Json.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Owin.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Helpers.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Mvc.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Optimization.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Razor.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.Deployment.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.Razor.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\WebGrease.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Helpers.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Mvc.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Optimization.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.Razor.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.Deployment.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\System.Web.WebPages.Razor.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Newtonsoft.Json.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Antlr3.Runtime.pdb
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\EntityFramework.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\EntityFramework.SqlServer.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Google.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\obj\Debug\BookManager.csproj.CopyComplete
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\obj\Debug\BookManager.dll
+D:\GV-HUTECH\Result\Lap trinh web\BookManager\BookManager\obj\Debug\BookManager.pdb
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\BookManager.dll.config
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\BookManager.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\BookManager.pdb
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csc.exe
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csc.exe.config
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csc.rsp
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csi.exe
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csi.exe.config
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\csi.rsp
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.AppContext.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Console.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.IO.Compression.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Net.Http.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Net.Sockets.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.ValueTuple.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\vbc.exe
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\vbc.exe.config
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\vbc.rsp
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Antlr3.Runtime.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\EntityFramework.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\EntityFramework.SqlServer.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Newtonsoft.Json.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Owin.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Helpers.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Mvc.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Optimization.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Razor.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\WebGrease.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Helpers.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Mvc.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Optimization.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.Razor.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Newtonsoft.Json.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Antlr3.Runtime.pdb
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\EntityFramework.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\EntityFramework.SqlServer.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.AssemblyReference.cache
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\obj\Debug\BookManager.dll
+C:\Users\DinhNguyen\Desktop\BookManager\BookManager\obj\Debug\BookManager.pdb
