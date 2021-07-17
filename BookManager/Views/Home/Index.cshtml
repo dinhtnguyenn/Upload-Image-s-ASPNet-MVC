@@ -6,7 +6,7 @@
 <h2>Upload Image</h2>
 @using (Html.BeginForm("UploadImage", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
 {
-    @Html.TextBox("file", "", new { type = "file" })
+    @Html.TextBox("file", "", new { type = "file", accept = "image/*" })
     <br />
     <input type="submit" value="Upload" class="btn btn-default" />
 }
@@ -15,7 +15,7 @@
 <h2>Upload Multiple Image</h2>
 @using (Html.BeginForm("UploadMultipleImage", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
 {
-    @Html.TextBox("files", "", new { type = "file", multiple = "multiple" })
+    @Html.TextBox("files", "", new { type = "file", multiple = "multiple", accept = "image/*" })
     <br />
     <input type="submit" value="Upload" class="btn btn-default" />
 
