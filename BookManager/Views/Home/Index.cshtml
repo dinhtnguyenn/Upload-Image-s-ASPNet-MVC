@@ -6,7 +6,9 @@
 <h2>Upload Image</h2>
 @using (Html.BeginForm("UploadImage", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
 {
-    @Html.TextBox("file", "", new { type = "file", accept = "image/*" })
+    @Html.TextBox("fileImage", "", new { type = "file", accept = "image/*" })
+    <br />
+    <img id="preview" src="#" width="150" height="100" class="hidden"/>
     <br />
     <input type="submit" value="Upload" class="btn btn-default" />
 }
@@ -17,6 +19,41 @@
 {
     @Html.TextBox("files", "", new { type = "file", multiple = "multiple", accept = "image/*" })
     <br />
+    <div class="filearray">
+    </div>
+    <br />
     <input type="submit" value="Upload" class="btn btn-default" />
 
 }
+
+
+@* script của upload *@
+<script>
+    fileImage.onchange = evt => {
+        const [file] = fileImage.files
+        if (file) {
+            preview.src = URL.createObjectURL(file);
+            $("#preview").removeClass("hidden");
+        }
+    }
+</script>
+
+@* script của multiple upload *@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+    $(document).on('ready', () => {
+        $("#files").on('change', function () {
+
+            $(".filearray").empty();//you can remove this code if you want previous user input
+            for (let i = 0; i < this.files.length; ++i) {
+                let filereader = new FileReader();
+                let $img = jQuery.parseHTML("<img width='150' height='100' src=''>");
+                filereader.onload = function () {
+                    $img[0].src = this.result;
+                };
+                filereader.readAsDataURL(this.files[i]);
+                $(".filearray").append($img);
+            }
+        });
+    });
+</script>
