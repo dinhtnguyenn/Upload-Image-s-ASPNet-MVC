@@ -17,22 +17,22 @@ namespace BookManager.Controllers
         }
 
         [HttpPost]
-        public ActionResult UploadImage(HttpPostedFileBase file)
+        public ActionResult UploadImage(HttpPostedFileBase fileImage)
         {
-            if (file != null || file.ContentLength > 0)
+            if (fileImage != null || fileImage.ContentLength > 0)
             {
-                string _FileName = Path.GetFileName(file.FileName);
+                string _FileName = Path.GetFileName(fileImage.FileName);
 
                 string path = Path.Combine(Server.MapPath("/images/"), _FileName);
                 if (System.IO.File.Exists(path)) 
                 {
                     //nếu hình ảnh đã tồn tại, thì xóa ảnh cũ, cập nhật lại ảnh mới
                     System.IO.File.Delete(path);
-                    file.SaveAs(path);
+                    fileImage.SaveAs(path);
                 }
                 else
                 {
-                    file.SaveAs(path);
+                    fileImage.SaveAs(path);
                 }
             }
             return RedirectToAction("Index");
